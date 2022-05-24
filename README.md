@@ -1,6 +1,102 @@
-# Simple Crud App With Hooks 🪝
+## Crud App 
 
-Getting Started with Create React App
+> A simple crud app with hooks🪝
+> Live demo [_here_](https://incomparable-torrone-fd42d8.netlify.app/).
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+
+
+## General Information
+<ul><li>The goal of this project was to develop a simple crud app that helps to organize people by name and username. This app includes the ability to edit the persons informartion</li></ul>
+
+
+## Technologies Used
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Java Script</li>
+  <li>Responsive Web Development</li> </ul>
+  
+## Framework 
+<ul><li>React.js</li>
+  <li>Bootstrap</li></ul>
+  
+  
+
+
+
+
+## Features
+
+<ul>
+  <li>Add User</li>
+ 
+
+
+## Screenshots
+
+<img width="1241" alt="Screen Shot 2565-05-24 at 21 33 02" src="https://user-images.githubusercontent.com/96970580/170035614-d4480d47-e1a3-471e-b1ae-88c4f48eb0c4.png">
+
+
+
+
+## Project Status
+<ul>
+<li>Project is: Completed</li></ul>
+
+
+
+
+
+
+
+
+## Acknowledgements
+ 
+ This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a>
+    
+   
+
+
+## Contact
+Created by [Paulette](https://pzf.netlify.app/) - feel free to contact me!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
 Available Scripts
