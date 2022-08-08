@@ -14,7 +14,7 @@
 
 
 ## General Information
-<ul><li>The goal of this project was to develop a simple crud app that helps to organize people by name and username. This app includes the ability to edit the persons informartion</li></ul>
+<ul><li>The goal of this project was to develop a simple crud app that helps to organize people by name and username. This app includes the ability to edit the persons information.</li></ul>
 
 
 ## Technologies Used
@@ -22,6 +22,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Java Script</li>
+  <li>JSX</li>
   <li>Responsive Web Development</li> </ul>
   
 ## Framework 
@@ -37,12 +38,16 @@
 
 <ul>
   <li>Add User</li>
+  <li>Edit User</li>
+  <li>Delete User</li>
+</ul>
  
 
 
 ## Screenshots
+<img width="1280" alt="Screen Shot 2565-08-08 at 15 27 37" src="https://user-images.githubusercontent.com/96970580/183354726-a5952160-c697-42f4-8506-aee1251a7601.png">
 
-<img width="1241" alt="Screen Shot 2565-05-24 at 21 33 02" src="https://user-images.githubusercontent.com/96970580/170035614-d4480d47-e1a3-471e-b1ae-88c4f48eb0c4.png">
+
 
 
 
