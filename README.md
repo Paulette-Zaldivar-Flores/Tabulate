@@ -1,4 +1,4 @@
-## Crud App 
+## Tabulate
 
 > A simple crud app with hooks🪝
 > Live demo [_here_](https://incomparable-torrone-fd42d8.netlify.app/).
