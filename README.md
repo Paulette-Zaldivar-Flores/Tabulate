@@ -1,7 +1,7 @@
 ## Tabulate
 
 > A simple crud app with hooks🪝
-> Live demo [_here_](https://incomparable-torrone-fd42d8.netlify.app/).
+> Live demo [_here_](https://tabulate.netlify.app/).
 
 ## Table of Contents
 * [General Info](#general-information)
