@@ -71,7 +71,7 @@
 
 
 ## Contact
-Created by [Paulette](https://pzf.netlify.app/) - feel free to contact me!
+Created by [Paulette](https://paulette-zaldivar-flores.netlify.app/) - feel free to contact me!
 
 
 
