@@ -9,7 +9,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -29,10 +28,7 @@
 <ul><li>React.js</li>
   <li>Bootstrap</li></ul>
   
-  
-
-
-
+ 
 
 ## Features
 
@@ -56,16 +52,6 @@
 <ul>
 <li>Project is: Completed</li></ul>
 
-
-
-
-
-
-
-
-## Acknowledgements
- 
- This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a>
     
    
 
